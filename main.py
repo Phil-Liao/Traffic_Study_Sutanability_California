@@ -1,11 +1,10 @@
 import pandas as pd
 
-
-def sort_by_county_name(xlsx_path):
-    df = pd.read_excel(xlsx_path, sheet_name='mode_of_transportation')
-    sorted_df = df.sort_values(by='county_fips')
-    # No file overwrite, just return the sorted DataFrame
-    return sorted_df
+def get_district_name_set(csv_path):
+    df = pd.read_csv(csv_path)
+    district_name_set = set(df['district_name'].dropna().unique())
+    print('Set of all data in the "district_name" column:', district_name_set)
+    return district_name_set
 
 # Example usage:
-sort_by_county_name('t2w.xlsx')
+get_district_name_set('avgts.csv')
