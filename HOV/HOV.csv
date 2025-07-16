@@ -1,0 +1,563 @@
+﻿OBJECTID,Route,Direction,Begin_County,Begin_Post_Mile,End_County,End_Post_Mile,Begin_Abs_Post_Mile,End_Abs_Post_Mile,Description,Length__________Lane_Miles_,Occupancy_Requirement,Hours_of_Operation,Segment_Opening_Date,Project_ID_EA_and_Funding__for_,Comments,Shape_Length
+1,5,NB,SAC,9.695,SAC,22.386,504.773,517.464,South of Elk Grove Blvd to the I-5/US 50 interchange,12.691,2+,"M-F
+06:00-10:00
+15:00-19:00",10/24/2022,03-3C001/3C002,,0.189624263198318
+2,5,SB,SAC,22.957,SAC,10.003,518.035,530.989,the I-5/US 50 interchange to South of Elk Grove Blvd,12.954,2+,"M-F
+06:00-10:00
+15:00-19:00",10/24/2022,03-3C001/3C002,,0.193910697947067
+3,50,EB,SAC,R5.371,ED,5.834,11.005,34.632,Watt Ave to Cameron Park Dr,23.627,2+,"M-F
+06:00-10:00
+15:00-19:00","Watt Ave to Sunrise Blvd - Dec 2011
+Sunrise Blvd to Prairie City Rd - Jul 2002
+Prairie City Rd to El Dorado Hills Blvd - Nov 2002
+El Dorado Hills Blvd to Bass Lake Rd - Nov 2011
+Bass Lake Rd to Cameron Park Dr - Oct 2012","03-44161
+03-4416U (Sunrise to EDH)
+03-3A711
+03-3A712",,0.422826724690834
+4,50,WB,SAC,R12.267,SAC,R6.366,17.927,12.000,Cameron Park Dr to Watt Ave (Part 3),5.927,2+,"M-F
+06:00-10:00
+15:00-19:00","Cameron Park Dr to Bass Lake Rd - June 2013
+Bass Lake Rd to El Dorado Hills Blvd - Nov 2011
+El Dorado Hills Blvd to Prairie City Rd - Nov 2002
+Prairie City Rd to Sunrise Blvd - Mar 2002
+Sunrise Blvd to Watt Ave - Mar 2012","03-44161
+03-4416U (Sunrise to EDH)
+03-3A711
+03-3A712",Part 3 of HOV Facility. Split for GIS mapping purposes,0.101361688677935
+5,51,NB,SAC,0,SAC,0.717,0,0.717,SR-99/US-50 to N Street,0.717,2+,"M-F
+06:00-10:00
+15:00-19:00",Sep-99,03-40561,"State Route 51 = Interstate 80 Business Loop
+Continuation of HOV lane from Route 99",0.010720659243877
+6,51,SB,SAC,1.467,SAC,0,1.467,0,B Street to SR-99/US-50,1.467,2+,"M-F
+06:00-10:00
+15:00-19:00",Sep-99,03-40561,"State Route 51 = Interstate 80 Business Loop
+Continues onto Route 99",0.0219590206173855
+7,80,EB,SAC,M0.767,PLA,4.718,84.691,106.237,West El Camino Ave to SR-65,21.546,2+,"M-F
+06:00-10:00
+15:00-19:00","Yolo Co Line to Longview Dr - Dec 2016
+Longview Dr to Madison Ave - Jul 2004
+Madison Ave to Riverside Ave - Oct 2003
+Riverside Ave to Eureka Rd - Oct 2011
+Eureka Rd to Rte 65 - Nov 2011","03-3797U
+03-36781
+03-36783
+03-36782",,0.3655490319987
+8,80,WB,PLA,4.88,SAC,M1.012,106.399,84.936,SR-65 to West El Camino Ave,21.463,2+,"M-F
+06:00-10:00
+15:00-19:00","Rte 65 to Eureka Rd - Nov 2011
+Eureka Rd to Riverside Ave - Oct 2011
+Riverside Ave to Longview Dr - Jul 2004
+Longview Dr to Yolo Co Line - Dec 2016","03-3797U
+03-36781
+03-36783
+03-36782",,0.364442874338798
+9,99,NB,SAC,11.969,SAC,R24.351,286.475,298.857,Elk Grove Blvd to US-50/SR-51,12.382,2+,"M-F
+06:00-10:00
+15:00-19:00","Elk Grove Blvd to Laguna Blvd - Oct 1998
+Laguna Blvd to Mack Rd - Oct 1997
+Mack Rd to Martin Luther King Jr Blvd - Nov 1990
+MLK Jr Blvd to Jct Rtes 50/51 - Sep 1999","03-35780 (Elk Grove to Mack)
+03-30090 
+03-40561  ",Continues onto Rte 51,0.190159759616841
+10,99,SB,SAC,R24.351,SAC,12.191,298.857,286.697,US-50/SR-51 to Elk Grove Blvd,12.16,2+,"M-F
+06:00-10:00
+15:00-19:00","Jct Rtes 50/51 to Martin Luther King Jr  Blvd- Sep 1999
+MLK Jr Blvd to Mack Rd - Nov 1990
+Mack Rd to Laguna Blvd - Oct 1997
+Laguna Blvd to Elk Grove Blvd - Oct 1998","03-35780 (Elk Grove to Mack)
+03-30090 
+03-40561 ",Continuation of HOV lane from Rte 51,0.18682452863825
+11,1,NB,SF,4.645,SF,5.951,426.442,427.748,N. of Crossover Dr. to N. of Lake St.,1.306,2+,"M-F
+5:00-20:00","Opened; GP lane conversion to HOV 2+ pilot project (2-3 years), 04/11/22",,,0.0205045402257084
+12,1,SB,SF,5.955,SF,4.559,427.752,426.366,N. of Lake St. to Crossover Dr.,1.386,2+,"M-F
+5:00-20:00","Opened; GP lane conversion to HOV 2+ pilot project (2-3 years), 04/11/22",,,0.0221131526345388
+13,4,EB,CC,R13.116,CC,R28.480,12.923,28.263,Port Chicago Hwy to Hillcrest Ave,15.34,2+,"M-F
+15:00-19:00","Opened; Port Chicago Hwy. to W/O Railroad Ave., 08/06/01 
+Extended; W/O Railroad Ave. to Railroad Ave., 07/24/06
+Extended; Railroad Ave. to W/O Loveridge Rd., 11/06/13
+Extended; W/O Loveridge Rd. to W/O Somersville Rd., 11/21/15
+Extended; W/O Somersville",,"EB only - PM
+",0.276469767877204
+14,4,WB,CC,R28.722,CC,R16.382,28.055,16.189,Hillcrest Ave to E/O Port Chicago Hwy,11.866,2+,"M-F
+05:00-09:00","Opened; Bay Point to E/O Port Chicago Hwy., 05/01/00
+Extended; Bailey Rd. to E/O Port Chicago Hwy., 05/05/00
+Extended; W/O Railroad Ave. to E/O Port Chicago Hwy., 07/23/01
+Extended; Loveridge Road to E/O Port Chicago Hwy., 07/24/06
+Extended; Loveridge Ro",,"WB only - AM
+
+",0.222176130288163
+15,80,EB,ALA,2.579,CC,13.171,7.908,26.523, I-880 to Cummings Skyway,18.615,3+,"M-F
+05:00-10:00
+15:00-19:00","Opened; Gilman St. to Contra Costa Co. line, 07/31/98
+Extended; Powell St. to Gilman St., 11/20/98 
+Extended; I-880 viaduct to Powell St., 11/12/03
+Opened ; San Pablo Dam Road to Pinole Valley Road, 02/12/97
+Extended; Cutting Blvd. to San Pablo Dam Road,",,2-Seat Vehicles with 2 Persons Permitted,0.290767758021531
+16,80,EB,SOL,0.504,SOL,0.673,27.995,28.164,Carquinez Bridge Toll Plaza,0.255,3+,"M-F
+05:00-10:00
+15:00-19:00","Opened; W/O Toll Plaza to E/O Toll Plaza, 07/30/97
+HOV lane moved from Toll Booth 5 to 10. HOV lanes now through Toll Booths 1 and 10. 10/28/2021
+All Electronic Tolling began (AET) across all lanes; Customer Service Center were only able to send invoices",,"2-Seat Vehicles with 2 Persons Permitted
+
+HOV lane moved from Toll Booth 5 to Toll Booth 10: Lane 1 0.17 mi, lane 10 = 0.085
+",0.00257238926308823
+17,80,EB,SOL,R11.481,SOL,19.594,38.976,47.096,Red Top Road to Air Base Pkwy,8.12,2+,"M-F
+05:00-10:00
+15:00-19:00","Opened; Red Top Road to E/O Air Base Pkwy., 11/04/09",,,0.136542621838653
+18,80,WB,SOL,20.051,SOL,12.456,47.553,39.958,E/O Air Base Pkwy. to WB Route 12,7.595,2+,"M-F
+05:00-10:00
+15:00-19:00","Opened; E/O Air Base Pkwy. to I-680, 10/01/09
+Shortened; section between Route 12 and I-680 removed, 2014
+Shortended; 0.5 miles of HOV lane on WB end removed, 09/2018",,Portion between I-680 and Route 12 eliminated in 2014,0.127404592318381
+19,80,WB,SOL,0.838,ALA,4.003,28.329,9.332,SR-29 to Powell Street,18.997,3+,"M-F
+05:00-10:00
+15:00-19:00","Extended; Route 29 to Contra Costa Co. line, 11/17/07 
+Opened; Pinole Valley Road to Cutting Blvd, 03/05/97
+Extended; Cutting Blvd. to Central Ave.,05/03/97
+Extended; Route 4 to Pinole Valley Road, 09/20/97
+Extended; Central Ave. to Alameda Co. line, 02/",,2-Seat Vehicles with 2 Persons Permitted,0.294520922792388
+20,80,WB,ALA,4.117,ALA,2.614,9.446,7.943,Powell St. to end of HOV lane beyond Slip Ramp to toll lane 20.,1.503,3+  ,"M-F
+05:00-10:00
+15:00-19:00","Opened; Powell St. to HOV slip-ramp (HOV flyover), 02/02/98",,2-Seat Vehicles with 2 Persons Permitted,0.0230846171917265
+21,80,WB,ALA,2.998,ALA,1.784,8.327,7.113,San Francisco-Oakland Bay Bridge Toll Plaza,3.103,3+  ,"M-F
+05:00-10:00
+15:00-19:00","Opened, 04/17/70
+All Electronic Tolling began (AET) across all lanes; Customer Service Center were only able to send invoices to vehicles with Fastrak accounts. 03/21/20
+Invoices to vehicles without Fastrak accounts began. 01/01/2021",,"2-Seat Vehicles with 2 Persons Permitted
+
+4 LANES TOTAL (1, 2, 19, 20)
+Lane 1 (PM 2.267 to PM 1.784),  length = 0.483 ln-mi,  connects from NB 880S LEFT lane
+Lane 2 (PM 2.998 to PM 1.784),  length = 1.214 ln-mi
+Lane 19 (PM 2.29 to PM 1.784),  length = 0.",0.0215005113042234
+22,84,WB,ALA,R5.926,ALA,R3.012,35.986,33.072,I-880 to Dumbarton Bridge Toll Plaza,2.914,2+,"M-F
+05:00-10:00
+15:00-18:00","Opened; Newark Blvd to Dumbarton Bridge Toll Plaza, 10/06/82
+Extended; Newark Blvd. to University Ave., 11/22/89
+Shortened; Neward Blvd. to W/O Toll Plaza, 11/17/90
+Extended; I-880/84 Junction to Newark Blvd, 07/31/08
+All Electronic Tolling began (AET) a",,,0.0484641326404609
+23,85,NB,SCL,0.215,SCL,R23.3,0.215,23.476,US-101 (South San Jose) to S/O Moffett Blvd. ,24.561,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Route 280 to Route 237, 02/22/90
+Opened; new section from Route 101 (San Jose) to Almaden Expwy., 08/12/94
+Extended; Almaden Expwy. to Route 280, 10/19/94
+Extended; Route 237 to US-101 (Mountain View), 11/06/98
+Opened; direct HOV connector from R",,Includes flyover from NB 101 to NB 85 (1.3 mi) ,0.389840705566893
+24,85,SB,SCL,R22.7,SCL,0.236,22.876,0.236,Central Expwy. to US-101 (South San Jose),23.92,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Route 237 to Route 280, 04/25/90
+Opened; new section from Almaden Expwy. To Bernal Road, 08/12/94
+Extended; Route 280 to Almaden Expwy., 10/19/94
+Extended; Route 101 (Mountain View) to Route 237, 11/13/98
+Opened; direct HOV Connector from Route 8",,Includes flyovers  to SB 101 (1.28 mi),0.381216855527194
+25,87,NB,SCL,0.453,SCL,9.154,0.453,9.154,SR-85 to US-101,9.701,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Taylor Ave. to Route 101, 04/18/05
+Opened; New section from Route 85 to Route 280, 02/04/07
+Extended; Route 280 to Taylor Ave., 05/24/07",,includes mileage 0.74 mi upstream & 0.26 mi downstream of beginning/ending postmiles,0.133432090200461
+26,87,SB,SCL,T8.827,SCL,0.423,8.827,0.423,US-101 to SR-85,9.124,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Route 101 to Taylor Ave., 12/23/04
+Opened; new section from Route 280 to Route 85, 03/16/07
+Extended; Taylor Ave. to Route 280, 07/26/07",,includes mileage 0.72 mi downstream of ending postmile,0.129031441222754
+27,92,WB,ALA,R5.655,ALA,R2.528,25.182,22.055,Hesperian Blvd to San Mateo Bridge Toll Plaza,3.282,2+,"M-F
+05:00-10:00
+15:00-18:00","Opened; Clawiter Rd. On-ramp to E/O Toll Plaza, 10/23/89
+Extended; Clawiter Road On-ramp to W/O Toll Plaza, 01/15/92
+Extended; Hesperian Blvd. to W/O Toll Plaza, 07/02/01",,"Lane 1 (PM R5.66 to PM R2.528),  length = 3.132 ln-mi
+Includes second lane through the toll plaza (PM R2.678 to PM R2.528),  length = 0.15 ln-mi",0.0551796245243102
+28,101,NB,SCL,R17.889,SCL,46.95,367.16,396.552,Cochrane Rd to S/O Ellis St.,29.392,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Guadalupe Pkwy. to Great America Pkwy., 11/07/86
+Extended; Great America Pkwy. to N. Rengstorff Ave., 10/10/88
+Extended; N. Rengstorff Ave. to San Mateo Co. Line, 12/12/88
+Opened; new section from Bernal Road to Rte 280/680 I/C, 06/07/90
+Extended",,,0.492877829697488
+29,101,NB,SF,T4.724,SF,6.673,433.923,435.742,Mission St. to Fibert St.,1.819,Bus Lane,24/7,4/1/2022,,"Dedicated Bus lane (lane 1). Not on the shoulder, No, US 101 through the City of San Francisco where the Bus lanes are located is Van Ness Avenue. The Buses run in the left lanes in both directions.",0.0281917207625778
+30,101,NB,SF,6.811,SF,8.067,435.98,437.235,Franklin St. to Lyon St.,1.255,2+,"M-F
+5:00-20:00",GP lane conversion to HOV 2+ pilot project (2-3 years) 9/24/2021,,,0.0226704758033452
+31,101,NB,MRN,3.902,MRN,R22.573,444.929,463.6,Richardson Bay Bridge to North of Atherton Ave,18.671,2+,"M-F
+16:30-19:00","Opened; Buses only, 12/20/74 
+Carpools permitted, 06/15/76
+Opened; N. San Pedro Road to Miller Creek Rd./Marinwood Ave., 08/12/86
+Extended; N/O Corte Madera to Nellen Ave. UC, 07/20/06
+Opened (gap closure); Lucky Drive to N. San Pedro Road, 04/24/09
+New ",,"NB Only - PM 
+Buses only",0.282538148589297
+32,101,NB,MRN,R27.125,SON,28.579,465.904,497.028,0.4 miles south of the Marin/Sonoma County line to Windsor River Road,31.124,2+,"M-F
+07:00-09:00
+15:00-18:30","Opened; Wilfred Ave. to Route 12, 11/04/02
+Extened; Route 12 to Steele Lane, 11/10/08
+Extended; Steele Lane to Windsor River Road, 12/06/09
+Opened; S/O Old Redwood Hwy. to Copeland Creek, 12/05/11
+Opened (gap closure); Copeland Creek to Wilfred Ave., 08/",,,0.45228651223797
+33,101,SB,SON,29.29,SON,R0.305,497.739,466.652,Windsor River Rd. to 0.3 miles N/O Marin County Line,31.087,2+,"M-F
+07:00-09:00
+15:00-18:30","Opened; Route 12 to Wifred Ave., 11/04/02 
+Extended; Steele Lane to Route 12, 11/10/08
+Extended; Windsor River Road to Steele Lane, 12/07/09
+Opened; new section from Rohnert Park Expwy. to N/O Old Redwood Hwy., 12/03/11
+Opened (gap closure); Wilfred Ave.",,"opened on Dec 3 (sat.) SB
+Dec 6 (Tues) NB
+NB opened 8/29/2012
+SB opened 8/30/2012",0.452229286941136
+34,101,SB,MRN,R20.88,MRN,4.704,461.907,445.731,De Long Ave to Richardson Bay Bridge,16.176,2+,"M-F
+06:30-08:30","Opened Buses only; 12/23/74 
+Carpools permitted, 06/16/76 
+Opened; Marinwood Ave. to N. San Pedro Road, 07/24/87 
+Extended; Marinwood Ave. to Route 37, 02/08/91
+Extended; Anderson Dr. to N/O Greenbrae pedestrian OC, 07/17/06 
+Extended; Mission Ave. to An",,"SB Only - AM
+
+Opened Buses only
+Marinwood to North San Pedro Rd.
+Marinwood to Rte 37
+Anderson Dr. to N. of Greenbrae ped OC 
+Mission Ave. to Anderson Dr.
+Gap Closure, Rte 37 to Richardson Bridge
+Rte 37 to Rowland Blvd.
+Rowland Blvd. to De Long Ave.",0.245367645207985
+35,101,SB,SF,7.984,SF,6.89,437.153,436.059,Francisco St. to Gough St. ,1.094,2+,"M-F
+5:00-20:00","Opened; Francisco St. to Gough St., 09/24/21",,GP lane conversion to HOV 2+ pilot project (2-3 years),0.0200475513177232
+36,101,SB,SF,6.706,SF,T4.724,435.825,433.923,Lombart St. to Mission St.,1.902,Bus Lane,24/7,4/1/2022,,"Dedicated Bus lane (lane 1). Not on the shoulder, No, US 101 through the City of San Francisco where the Bus lanes are located is Van Ness Avenue. The Buses run in the left lanes in both directions.",0.0285996035128494
+37,101,SB,SCL,45.9,SCL,R18.734,395.502,367.97,S/O Route 237 (Calaveras Blvd.) to Cochrane Road,27.532,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Lawrence Expwy. to De La Cruz Blvd., 11/10/86
+Extended; Ellis St. to Lawrence Expwy., 08/08/88
+Extended; N/O Rengstorff Ave. to Ellis St., 10/10/88
+Extended; San Mateo Co. Line to N/O Rengstorff Ave., 12/12/88
+Opened; new section from Route 280/6",,,0.460283752680886
+38,160,NB,CC,0.64,CC,0.728,1.979,2.067,Antioch Bridge Toll Plaza,0.088,3+,"M-F
+05:00-10:00
+15:00-19:00","All Electronic Tolling began (AET) across all lanes; Customer Service Center were only able to send invoices to vehicles with Fastrak accounts. 03/21/20
+Invoices to vehicles without Fastrak accounts began. 01/01/21",,"HOV 3+,  2-Seat Vehicles with 2 Persons Permitted",0.00126891773764023
+39,280,NB,SCL,L4.716,SCL,14.019,4.716,15.401,S/O Leland Ave. to Magdalena Ave.,10.685,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; S/O Leland Ave. to Magdalena Ave., 11/21/90",,SCL-280-L 5.954 = SCL-280-4.572 ,0.188683906512997
+40,280,SB,SCL,14.4,SCL,L4.75,15.782,4.75,N/O Magdalena Ave. to Leland Ave.,11.032,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; S/O Magdalena Ave. I/C to Leland Ave., 12/01/90
+Extended; 0.3 miles S/O of Magdalena to 0.3 miles N/O Magdalena I/C (total 0.6 miles extension), 8/13/21 ",,SCL-280-L 5.954 = SCL-280-4.572 ,0.194799715000633
+41,580,WB,CC,6.072,CC,6.147,69.928,70.003,Richmond San Rafael Bridge Toll Plaza,0.075,3+,"M-F
+05:00-10:00
+15:00-19:00","All Electronic Tolling began (AET) across all lanes; Customer Service Center were only able to send invoices to vehicles with Fastrak accounts. 03/21/20
+Invoices to vehicles without Fastrak accounts began. 01/01/21",,"HOV 3+,  2-Seat Vehicles with 2 Persons Permitted",0.00138489379711046
+42,680,NB,CC,R18.819,CC,23.144,50.32,54.844,SR-242 to south of Marina Vista,4.524,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Route 242 to S/O Marina Vista, 04/28/05",,,0.0707097680472776
+43,680,NB,CC,24.262,CC,24.788,55.962,56.488,Benicia-Martinez Toll Plaza,0.644,3+,"M-F
+05:00-10:00
+15:00-19:00","Opened with new Bridge; N/O Marina Vista to Toll Plaza, 08/26/07",,"HOV 3+,  2-Seat Vehicles with 2 Persons Permitted
+
+2 lanes
+Lane 10 (PM 24.262 to PM 24.788),  length = 0.526 ln-mi
+Lane 3 (PM 24.442 to PM 24.560),  length = 0.118 ln-mi",0.0084058981915521
+44,880,NB,SCL,4.664,SCL,10.502,4.664,10.502,Old Bayshore Hwy to Dixon Landing Rd,5.838,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; Route 880/237 Junction to S/O Dixon Landing Road, 04/22/05
+Extended; S/O Dixon Landing Road to Alameda Co. line, 11/11/08
+Extended; Old Bayshore Highway to Route 880/237 Junction, 06/22/13",,,0.0852553148263544
+45,880,NB,ALA,R34.527R,ALA,R35.797R,44.754,46.024,West Grand Ave to I-80,1.27,3+,"M-F
+5:00-10:00
+15:00-19:00","Opened; West Grand Ave. to EB Route 80 HOV lane merge, 11/12/03",,2-Seat Vehicles with 2 Persons Permitted,0.01934241438032
+46,880,NB,ALA,R0,ALA,R0.969,10.502,11.471,Santa Clara Co. Line to S/O Route 262,0.969,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; N/O Tennyson Road to A St., 09/22/91
+Extended; Industrial Pkwy to Tennyson, 11/08/91
+Extended; A St. to Route 238, 06/26/92
+Whipple Rd. to Industrial Pkwy
+Shortened; Whipple Rd. to 1 mi. S/O Route 238 removed, 09/23/96
+Extended; Allvarado Blvd./F",,,0.0154722344141006
+47,880,SB,SCL,8.471,SCL,4.17,8.471,4.17,SR 237  (Calaveras Blvd.)to US-101,4.301,2+,"M-F
+05:00-09:00
+15:00-19:00","Opened; S/O Dixon Landing Road to Route 880/237 Junction
+Extended; Alameda Co. line to S/O Dixon Landing Road, 08/11/07
+Extended; Route 880/237 Junction to Route 101 I/C 
+Converted; Alameda Co. line to Route 237, 10/02/20
+Remaining HOV: SR 237 to US 101,",,,0.0628311461417252
+48,880S,NB,ALA,0.000R,ALA,1.223R,0,1.223,16th St to SFOBB Toll Plaza,1.607,3+,"M-F
+05:00-10:00
+15:00-19:00","Opened; 16th St. to left HOV ramp at SFOBB Toll Plaza. '05/1998
+Extended; Slip ramp to SFOBB right-side bypass lanes onto the West Grand on-ramp, 01/03/19",,"2-Seat Vehicles with 2 Persons Permitted
+
+2 HOV approaches
+LEFT LANE (PM 0R to PM 1.223R) becomes SFOBB Toll Plaza lane #1
+
+RIGHT LANE (PM 0.818R to PM 1.202R) becomes SFOBB Toll Plaza lane #19 - HOV peak, BUS ONLY non-peak",0.0240321880025487
+49,101,NB,SB,R0.000,SB,4.28,83.063,87.203,Ventura County Line to 0.51 miles North of Santa Monica  Creek,4.14,2+,"M-F
+06:00-09:00
+15:00-18:00","Extended  to the north in June, 2022","07-26070 & 05-0N701
+CMIA & STIP-RIP","Continuation from Ventura County
+Note: PM R0.980=PM 1.120",0.0689602322377207
+50,101,SB,SB,4.33,SB,R0.000,87.253,83.063,Bailard Avenue to to 0.56 miles North of Santa Monica Creek,4.19,2+,"M-F
+06:00-09:00
+15:00-18:00","Extended  to the north in June, 2022","05-0N701 & 07-26070
+STIP-RIP & CMIA","Continues into Ventura County
+Note: PM R0.980=PM 1.120",0.0699450100328196
+51,5,NB,LA,0,LA,5.81,116.418,122.228,Orange Co Line to Orr and Day Rd/Railroad Tracks (south of Florence Ave),5.81,2+,24 Hr,"Orange Co Line to Coyote Creek - June 2022
+Coyote Creek to Orr and Day Rd/Railroad Tracks - Feb 2022",,Continuation of HOV lane from Orange County. Parent EA 2159A.,0.0943567039295854
+52,5,NB,LA,26.75,LA,R45.22,143.168,161.415,Rte 134 to Rte 14,20.047,2+,24 Hr,"Rte 134 to Magnolia Blvd - Apr 2021
+Magnolia Blvd to Hollywood Way - Aug 2022
+Hollywood Way to Rte 118 - June 2015
+Rte 170 direct connector - June 2015
+Rte 118 to Rte 14 - Apr 2008
+Rte 14 to JNO Rte 14 - Dec 2012","
+
+
+
+EA 21592; Funding $607.161M
+EA 21591; Funding $103.823M
+EA 2159C; Funding $414.943M
+EA 21593; Funding $191.803M
+EA 21594; Funding $390.848M
+
+
+
+","Mileage includes direct connector from NB Rte 170 to NB Rte 5 (0.8 ln-mi)
+Mileage includes direct connector from NB Rte 5 to NB Rte 14 (1.0 ln-mi)",0.293230239499826
+53,5,SB,LA,R45.43,LA,27.51,161.625,143.928,Rte 14 to Rte 134,19.497,2+,24 Hr,"JNO Rte 14 to Rte 14 - Dec 2012
+Rte 14 to Rte 118 - Apr 2008
+Rte 170 direct connector - June 2015
+Rte 118 to Hollywood Way - June 2015
+Hollywood Way to Magnolia Blvd - July 2022
+Magnolia Blvd to Rte 134 - Apr 2021","EA 12184; Funding $178.223M
+EA 1218W; Funding $482.451M
+
+
+
+","Mileage includes direct connector from SB Rte 5 to SB Rte 170 (0.8 ln-mi)
+Mileage includes direct connector from SB Rte 14 to SB Rte 5 (1.0 ln-mi)",0.284183014248128
+54,5,SB,LA,6.31,LA,0,122.728,116.418,Florence Ave (just south of I-605) to Orange Co Line,6.31,2+,24 Hr,22-Apr,"
+
+
+
+EA 1218W; Funding $482.451M
+EA 12184; Funding $178.223M",,0.102256232863993
+55,10,EB,LA,30.995,LA,48.265,29.495,46.765,I-605 to San Bernardino County Line,17.27,2+,24 Hr,"Rte 605 to 0.6 mi west of Puente Ave (Francisquito Ave) - Dec 2013
+0.6 mi west of Puente Ave (Francisquito Ave) to Citrus Ave - Aug 2020
+Citrus Ave to Rte 57 - April 2021
+Rte 57 to San Bernardino Co Line - Nov 2003","EA 21595; Funding $52.353M
+EA 21594; Funding $390.848M
+EA 21593; Funding $191.803M
+EA 2159C; Funding $414.943M
+EA 21591; Funding $103.823M
+EA 21592; Funding $607.161M",Continues into San Bernardino County,0.298558136029594
+56,10,WB,LA,48.265,LA,31.293,46.765,29.793,San Bernardino County Line to I-605,16.972,2+,24 Hr,"San Bernardino Co Line to Rte 57 - Nov 2003
+Rte 57 to Citrus Ave - April 2021
+Citrus Ave to 0.5 mi west of Puente Ave (Francisquito Ave) - Aug 2020
+0.5 mi west of Puente Ave (Francisquito Ave) to Rte 605 - Dec 2013","
+EA 1170U; Funding $203.001M
+EA 1193U; Funding $271.803M
+",Continuation of HOV lane from San Bernardino County,0.293477659458427
+57,14,NB,LA,R24.99,LA,R60.076,0.202,35.239,I-5 to 0.3 miles north of Palmdale Blvd,35.037,2+,"3:00-7:00 pm M-F
+24 Hr s/o Newhall Ave ","Rte 5 direct connector - Dec 2012
+Rte 5 to San Fernando Rd (Newhall Ave) - Aug 2002
+(Newhall Ave) San Fernando Rd to Sand Canyon Rd - May 1998
+Sand Canyon Rd to Escondido Canyon Rd - Sep 1999
+Escondido Canyon Rd to Pearblossom Hwy - Jul 2002
+Pearblossom ","
+EA 1193U; Funding $271.803M
+EA 1170U; Funding $203.001M
+","Demonstration Project
+Buffer Separated / Part-Time Access Operation
+
+Update: As of year 2019, continuous access striping from 1.2 miles north of Via Princessa to 0.3 miles north of Palmdale Blvd.",0.570387911425102
+58,14,SB,LA,R60.685,LA,R24.99,35.848,0.202,Avenue P-8 (Technology Dr) to I-5,35.646,2+,"5:00-9:00 am M-F
+24 Hr s/o Newhall Ave ","Ave P-8 to Pearblossom Hwy- Aug 2006
+Pearblossom Hwy to Escondido Canyon Rd - Jul 2002
+Escondido Canyon Rd to Sand Canyon Rd- Sep 1999
+Sand Canyon Rd to San Fernando Rd (Newhall Ave) - May 1998
+(Newhall Ave) San Fernando Rd to Rte 5 - Aug 2002
+Rte 5 dire",,"Demonstration Project
+Buffer Separated / Part-Time Access Operation
+
+Update: As of year 2019, continuous access striping from Avenue P-8 (Technology Dr) to 1.2 miles north of Via Princessa.",0.579074066230795
+59,57,NB,LA,R0.000,LA,R4.406R,11.817,16.223,Orange County Line to SR-60,5.506,2+,24 Hr,"Orange Co Line to Rte 60 direct connector - Aug 1997
+Rte 60 direct connector - Feb 2007",,"Continuation of HOV lane from Orange County
+Mileage includes direct connector from NB Rte 57 to EB Rte 60 (1.1 ln-mi)",0.0672832426432365
+60,57,SB,LA,R4.363L,LA,R0.000,16.265,11.817,SR-60 to Orange County Line,5.548,2+,24 Hr,"Rte 60 direct connector - Feb 2007
+Rte 60 direct connector to Orange Co Line - Aug 1997",,"Continues into Orange County
+Mileage includes direct connector from WB Rte 60 to SB Rte 57 (1.1 ln-mi)",0.0669460047433615
+61,60,EB,LA,11.79,LA,R30.456,11.931,30.597,I-605 to San Bernardino County Line,18.666,2+,24 Hr,"Rte 605 to Brea Canyon Rd - Sep 2010
+Brea Canyon Rd to Jct Rte 57 North - Feb 1999
+Jct Rte 57 North to San Bernardino Co Line - Feb 1999",,Continues into San Bernardino County,0.317727753496399
+62,60,WB,LA,R30.456,LA,13.824,30.597,13.966,San Bernardino County Line to 0.4 miles west of 7th Ave,16.631,2+,24 Hr,"San Bernardino Co Line to Jct Rte 57 North - Feb 1999
+Jct Rte 57 North to Brea Canyon Rd - Feb 1999
+Brea Canyon Rd to 0.4 mi west of 7th Avenue - Oct 2010",,Continuation of HOV lane from San Bernardino County,0.282692532537365
+63,91,EB,LA,R6.559,LA,R20.741,0.557,14.739,I-110 to Orange County Line,14.182,2+,24 Hr,"Rte 110 to Rte 605 - Jun 1985
+Rte 605 to Orange Co Line - Nov 1994",,Continues into Orange County,0.244544688418354
+64,91,WB,LA,R20.741,LA,R8.532,14.739,2.53,Orange County Line to Central Avenue,12.209,2+,24 Hr,"Orange Co Line to Rte 605 - Nov 1994
+Rte 605 to Central Avenue - Mar 1993",,Continuation of HOV lane from Orange County,0.210213371961463
+65,101,NB,VEN,R39.89,VEN,R43.622,79.438,83.063,0.1 mile north of Mobil Pier Rd to Santa Barbara County Line,3.625,2+,"M-F
+6:00-9:00 am
+3:00-6:00 pm ",15-Mar,,Continues into Santa Barbara County ,0.0600898309973162
+66,101,SB,VEN,R43.622,VEN,R40.197,83.063,79.745,Santa Barbara County Line to 0.4 mile north of Mobil Pier Rd,3.318,2+,"M-F
+6:00-9:00 am
+3:00-6:00 pm ",15-Mar,,Continuation of HOV lane from Santa Barbara County ,0.0548390915571715
+67,105,EB,LA,R1.81,LA,R18.14,1.81,18.14,I-405 to Studebaker Rd,16.33,2+,24 Hr,Oct-93,,,0.281445904982823
+68,105,WB,LA,R18.14,LA,R2.42,18.14,2.42,Studebaker Rd to I-405,15.72,2+,24 Hr,Oct-93,,,0.270845113038309
+69,118,EB,LA,R0.11,LA,R10.51,31.836,42.236,0.1 mile east of Ventura County Line to I-5,10.4,2+,24 Hr,Mar-97,,,0.178825171441757
+70,118,WB,LA,R10.817,VEN,R32.105,42.546,31.231,I-5 to 0.3 miles west of Rocky Peak Road,11.315,2+,24 Hr,Mar-97,,,0.194705236837634
+71,134,EB,LA,0.225,LA,R5.26R,0.225,5.26,US-101/SR-170 to I-5,5.035,2+,24 Hr,Oct-95,,,0.0874150392927334
+72,134,EB,LA,R5.70,LA,R13.341,5.7,13.341,I-5 to I-210,7.641,2+,24 Hr,"Rte 5 to Rte 2 - Mar 1996
+Rte 2 to Rte 210 - Aug 1996",,Continues onto Route 210,0.130607804758461
+73,134,WB,LA,R13.341,LA,R6.15,13.341,6.15,I-210 to I-5,7.191,2+,24 Hr,"Rte 210 to Rte 2 - Aug 1996
+Rte 2 to Rte 5 - Mar 1996",,Continuation of HOV lane from Route 210,0.122852960017
+74,134,WB,LA,4.89,LA,0.72,4.89,0.72,I-5 to 0.1 mile west of Cahuenga Blvd,4.17,2+,24 Hr,Oct-95,,,0.0722216244203315
+75,170,NB,LA,R14.500,LA,R20.28,0,5.78,US-101/SR-134 to I-5,5.98,2+,24 Hr,"Feb 1996
+I-5 direct connector - June 2015",,Mileage includes 0.2 ln-mi on connector from NB Rte 101 ,0.0870560517121525
+76,170,SB,LA,R20.22,LA,R14.500,5.72,0,I-5 to US-101/SR-134,5.92,2+,24 Hr,"Rte 170 direct connector - June 2015
+Feb 1996",,Mileage includes direct connector from I-5 (0.9 mi) ,0.0861091664409952
+77,210,EB,LA,R25.238,LA,R52.150,25.218,52.439,SR-134 to San Bernardino County Line,27.421,2+,24 Hr,"HOV drop ramp at Fair Oaks Ave - May 1996
+Jct Rte 134 to Sunflower Ave - Dec 1993
+Sunflower Ave to Foothill Blvd - Sep 1997
+Foothill Blvd to San Bernardino Co Line - Nov 2002",,"Continues into San Bernardino County
+Mileage includes HOV drop ramp at Fair Oaks Ave (0.2 ln-mi)",0.47026049522143
+78,210,WB,LA,R52.150,LA,R25.238,52.439,25.218,San Bernardino County Line to  SR-134,27.221,2+,24 Hr,"San Bernardino Co Line to Foothill Blvd- Nov 2002
+Foothill Blvd to Sunflower Ave- Sep 1997
+Sunflower Ave to Jct Rte 134 - Dec 1993",,Continuation of HOV lane from San Bernardino County,0.470447273338194
+79,405,NB,LA,0,LA,48.585,23.948,72.357,Orange County Line to I-5,48.409,2+,24 Hr,"Orange Co LIne to Rte 710 - Feb 1998
+Rte 710 to Rte 110 - Oct 1998
+Rte 110 to 120th St - Apr 1993
+120th St to Century Blvd - Jan 1994
+Century Blvd to Rte 90 - May 2006
+Rte 90 to Rte 10 - Nov 2009
+Rte 10 to Ventura Blvd/Rte 101 - May 2014
+Ventura Blvd/Rte",,Continuation of HOV lane from Orange County,0.757024386644786
+80,405,SB,LA,47.855,LA,0,71.627,23.948,I-5 to Orange County Line,47.679,2+,24 Hr,"Route 5 to Route 101 - Oct 1996
+Rte 101 to Waterford (0.4 mi s/of Montana Ave) - Jan 2002
+Waterford to Santa Monica Blvd - Aug 2007
+Santa Monica Blvd to Rte 10 - Nov 2009
+Rte 10 to Rte 90 - Nov 2009
+Rte 90 to Century Blvd - May 2006
+Century Blvd to 120th",,Continues into Orange County,0.746655276535541
+81,605,NB,LA,R0.000,LA,R19.838,2.052,21.89,Orange County Line to I-10,19.838,2+,24 Hr,"Orange Co Line To South St - Mar 2001
+South St to Telegraph Rd - Apr 1997
+Telegraph Rd to Rte 10 - Apr 1998",,Continuation of HOV lane from Orange County,0.299987132134788
+82,605,SB,LA,20.712,LA,R0.000,22.764,2.052,I-10 to Orange County Line,20.712,2+,24 Hr,"Rte 10 to Telegraph Rd - Apr 1998
+Telegraph Rd to South St- Apr 1997
+South St to 0.7 mi N/of Spring St OC - Mar 2001
+0.7 mi N/of Spring St OC to Orange Co Line - Dec 2014",,Continues into Orange County,0.312918690340981
+83,10,EB,SBD,0,SBD,8.267,46.765,55.032,Los Angeles County Line to Haven Ave,8.267,2+,24 Hr,Jan-00,,Continuation of HOV lane from Los Angeles County.  In construction to convert to two Express Lanes in each direction.,0.141948489919899
+84,10,WB,SBD,8.518,SBD,0,55.283,46.765,Haven Ave to Los Angeles County Line,8.518,2+,24 Hr,Jan-00,,Continues into Los Angeles County.  In construction to convert to two Express Lanes in each direction.,0.146219252298506
+85,60,EB,SBD,R0.000,RIV,12.684,30.597,52.964,Los Angeles County Line to West Jct I-215,22.367,2+,24 Hr,"01/1997
+SBD/RIV Co Line to Valley Way - 01/2008
+Valley Way to SR-60/SR-91/I-215 (west) IC -06/2001",,"Continuation of HOV lane from Los Angeles County
+Continues onto Route 215",0.386356952152368
+86,60,EB,RIV,R12.064,RIV,19.634,53.278,60.541,East Jct I-215 to Redlands Blvd,7.263,2+,"24 Hr from I-215 to Day St
+M-F
+06:00-10:00
+15:00-19:00","06/2014
+02/2003",,Continuation of HOV lane from Route 215,0.125508643406271
+87,60,WB,RIV,20.134,RIV,R11.750,61.041,52.964,Redlands Blvd to East Jct I-215,8.077,2+,"M-F
+06:00-10:00
+15:00-19:00
+24 Hr from Day St to I-215","02/2003
+06/2014",,Continues onto Route 215,0.139936858890568
+88,60,WB,RIV,12.426,SBD,R0.000,52.706,30.597,West Jct I-215 To Los Angeles County Line,22.109,2+,24 Hr,"SR-60/SR-91/I-215 (west) IC to Valley Way - 06/2001
+Valley Way to SBD/RIV Co Line -01/2008
+01/1997",,"Continuation of HOV lane from Route 215
+",0.383674333881157
+89,71,NB,SBD,R8.447,SBD,R1.138,13.397,6.088,Riverside County Line to Los Angeles County Line,7.309,2+,24 Hr,Jan-98,,,0.114241213343566
+90,71,SB,SBD,R0.337,SBD,R7.416,5.303,12.366,Los Angeles County Line to north of Butterfield Ranch Rd,7.063,2+,24 Hr,Oct-98,,,0.111139442743627
+91,91,WB,RIV,22.068,RIV,8.096,59.412,45.44,I-215 to 0.7 mi e/of I-15                                ,13.972,2+,24 Hr,"Jct Rte 215 to Madison St -02/2016
+Mary St UC to Magnolia Ave -02/1996
+Magnolia Ave to I-15 -10/1992",,Continuation from Route 215,0.228913264942222
+92,210,EB,SBD,0,SBD,21.289,52.439,73.728,Los Angeles County Line to I-215,21.289,2+,24 Hr,"SBD/LA  Co Line to Sierra Ave -11/2002
+Sierra Ave to I-215 - 07/2007",,Continuation of HOV lane from Los Angeles County.,0.370230232466349
+93,210,WB,SBD,21.479,SBD,0,73.918,52.439,I-215 to Los AngelesCounty Line,21.479,2+,24 Hr,"I-215 to Sierra Ave -07/2007
+Sierra Ave to SBD/LA Co Line-11/2002",,Continues into Los Angeles County,0.372616203834719
+94,215,NB,RIV,38.782,RIV,42.797,30.756,34.771,South Jct SR-60 to North Jct SR-60/SR-91,4.322,2+,24 Hr,"East junction Rte 60 to Box Springs Road - 06/2014
+Box Springs Rd to University Ave - 09/2008
+University Ave to Jct Rtes 60/91/215 - 06/2001",,"Continuation from Route 60
+Continues onto Route 60",0.0640171424855179
+95,215,NB,RIV,R43.300R,SBD,10.033,35.274,47.275,North Jct SR-60/SR-91 to SR-210,12.001,2+,24 Hr,"Rte 60/91 to Orange Show Rd - 05/2015
+Orange Show Road to Mill Street - 07/2011
+Mill St to Jct Rte 210 - 01/2014",,Continuation from Route 91,0.182848924720363
+96,215,SB,SBD,9.948,RIV,43.679,47.19,35.588,SR-210 to North Jct SR-60/SR-91,11.602,2+,24 Hr,"Rte 210 to 16th St -01/2014
+16th St to Mill St -12/2013
+Mill St to Orange Show Rd - 07/2011
+Orange Show Road to Rte 60 - 06/2015",,Continues onto Route 91,0.176820376279644
+97,215,SB,RIV,42.797,RIV,R38.404,34.771,30.071,North Jct SR-60/SR-91 to South Jct SR-60,4.7,2+,24 Hr,"Jct Rtes 60/91/215 to University Ave  -06/2001
+University Ave to Box Springs Rd - 09/2008
+Box Springs Rd to Jct Rte 60 - 06/2014",,"Continuation from Route 60
+Continues onto Route 60",0.0746506430921865
+98,5,NB,SJ,25.284,SJ,31.936,470.561,477.213,Charter Way to S/of Hammer Ln,6.652,2+,"M-F
+06:00-09:00
+15:00-18:00",15-Dec-16,,EA 10-0G4704,0.104291794900806
+99,5,SB,SJ,32.471,SJ,25.319,477.748,470.596,Hammer Ln to Charter Way,7.152,2+,"M-F
+06:00-09:00
+15:00-18:00",15-Dec-16,EA 10-0G4704,EA 10-0G4704,0.111854617084694
+100,5,NB,SD,R0.305,SD,R0.335,0,0.03,"San Ysidro Port of Entry
+ Lanes # 9 -12                                              ",0.12,3+,"M - F
+05:00 - 18:00",Nov-96,,These lanes reside on federal land (GSA).  Lanes extend south into Mexico.,0.000506403755677365
+101,5,NB,SD,R0.305,SD,R0.335,0,0.03,"San Ysidro Port Of Entry
+Lane #1                                              ",0.03,Buses                ,24 Hr,Jul-73,,This lane resides on federal land (GSA).  This lane extends south into Mexico.,0.000506403755677365
+102,5,NB,SD,R31.188,SD,R51.2,30.864,50.876,I-805 to Rte 78,20.012,2+,24 Hr,"Rte 805 to Via De La Valle - Sep 2000
+Via De la Valle to Manchester Ave - Jul 2008
+Manchester Avenue to Palomar Airport Rd. - Feb 2022
+Palomar Airport Rd to Rte 78 - Jul 2023",,Continuation of HOV lane from Rte 805,0.299442902152299
+103,5,SB,SD,R51.2,SD,R30.345,50.876,30.021,Rte 78 to 0.8 mi N/of I-805,20.855,2+,24 Hr,"Lomas Santa Fe to Via De La Valle - Jul 2008
+Via De La Valle to Rte 805 - Jul 2007
+Palomar Airport Rd to Lomas Santa Fe Dr - Feb 2022
+Rte 78 to Palomar Airport Rd - Jun 2023",,Continues onto Rte 805,0.311284118358881
+104,15,NB,SD,M4.073,SD,R5.887,3.675,6.068,I-805 to I-8,2.393,Buses                ,24 Hr,18-Mar,,Restricted to MTS buses only,0.0353324527416372
+105,15,SB,SD,R5.941,SD,M4.068,6.122,3.67,I-8 to I-805,2.452,Buses                ,24 Hr,18-Mar,,Restricted to MTS buses only,0.0361003870593646
+106,163,NB,SD,0.637,SD,1.057,0.086,0.506,Ash St to I-5 ,0.42,Buses                ,24 Hr,Dec-75,,Buses Only,0.00575094029181193
+107,805,NB,SD,5.958,SD,12.95,5.809,12.801,Telegraph Canyon Rd to Market Street,7.892,2+,24 Hr,14-Mar,,Mileage includes direct connector from Palomar St (0.9 mi),0.106977929449529
+108,805,SB,SD,28.654,SD,24.325,28.505,24.176,I-5 to SR-52,4.329,2+,24 Hr,"Rte 5 to Mira Mesa Blvd- Mar 2014
+Mira Mesa Blvd to Rte 52 - Jun 2016",,Continuation of HOV lane from Rte 5,0.0658625181056368
+109,805,SB,SD,13.329,SD,5.354,13.18,5.205,SR-94 to Telegraph Canyon Rd,8.275,2+,24 Hr,14-Mar,,Mileage includes direct connector to Palomar St (0.3 mi),0.121683238169479
+110,905,WB,SD,R11.735,SD,R11.737,8.891,8.891,"Otay Mesa Port of Entry 
+Lane #14",0.06,Buses                ,06:00 - 18:00,Jan-85,,These lanes reside on federal land (GSA).  Lanes extend south into Mexico.,2.94477000841483e-05
+111,5,NB,ORA,3.15,ORA,43.335,75.193,115.371,Ave Pico to Beach Blvd,42.038,2+,24 Hr,"Ave Pico to Rte 1 - 2018
+Rte 1 to south of Avery Pkwy - Jul 1996
+South of Avery Pkwy to El Toro Rd - Oct 1997
+El Toro Rd to south of Alton Pkwy - Jul 1996
+South of Alton Pkwy to Newport Ave - Oct 1992
+Newport Ave to Santa Ana River - May 1996
+Santa Ana R",,"Mileage includes dual lane segment (PM 18.94 to PM 20.80), 1.9 ln-mi",0.633320011741129
+112,5,SB,ORA,44.302,ORA,3.254,116.338,75.297,Artesia Blvd to Ave Pico,43.331,2+,24 Hr,"Artesia Blvd to south of Broadway St OC - Jan 2001
+South of Broadway St OC to Santa Ana River - Sep 2000
+Santa Ana River to Newport Ave - May 1996
+Newport Ave to south of Alton Pkwy - Oct 1992
+South of Alton Pkwy to El Toro Rd - Jul 1996
+El Toro Rd to so",,"Mileage includes dual lane segment (PM 20.80 to PM 18.51), 2.3 ln-mi",0.646931121805703
+113,22,EB,ORA,R0.878,ORA,R11.723,2.335,13.284,I-405 to Grand Ave,11.649,2+,24 Hr,"I-405 connector - Dec 2014
+I-405 to Valley View St - Dec 2014
+Valley View to Grand -Apr 2007",,Includes direct connector from SB I-405 (0.7 ln-mi)(ORA-405-21.268 to ORA-22-R0.878),0.188199766108944
+114,22,WB,ORA,R12.384,ORA,R1.202,13.945,2.659,0.8 mi w/of SR-55 to I-405,12.386,2+,24 Hr,"Cambridge St to Springdale St - Apr 2007
+Springdale St to Valley View St - Dec 2014
+Valley View St to I-405 - Dec 2014
+I-405 connector - Dec 2014",,Includes direct connector to NB I-405 (1.1 ln-mi) (ORA-22-R1.202 to ORA-405-21.208),0.193933147535723
+115,55,NB,ORA,R5.592,ORA,16.275,5.422,16.087,I-405 to 0.7 mi s/of Lincoln Ave,10.665,2+,24 Hr,Nov-85,,,0.159616108791401
+116,55,SB,ORA,16.559,ORA,R6.254,16.371,6.084,0.4 mi s/of Lincoln Ave to I-405,10.287,2+,24 Hr,Nov-85,,,0.153215709903293
+117,57,NB,ORA,11.026,ORA,R22.551,0.292,11.817,I-5 to Los Angeles County Line,11.525,2+,24 Hr,"Rte 5 direct connector - May 1996
+Rtes 5/22 to  Lambert Rd -Jun 1992
+Lambert Rd to  Los Angeles Co Line - Aug 1997",,Continues into Los Angeles County. Mileage includes direct connector from Rte 5 (0.3 ln-mi) (ORA-5-34.112 to ORA-57-10.984),0.170113201343804
+118,57,SB,ORA,R22.551,ORA,10.917L,11.817,0.268,Los Angeles County Line to I-5,11.849,2+,24 Hr,"Los Angeles Co Line to Lambert Rd- Aug 1997
+Lambert Rd to Rtes 5/22 -Jun 1992
+Rte 5 direct connector - May 1996",,Continuation of HOV lane from Los Angeles County. Mileage includes direct connector to Rte 5 (0.3 ln-mi) (ORA-57-10.917 to ORA-5-34.112),0.171250879117424
+119,91,EB,ORA,R0.000,ORA,8.15,14.739,26.523,Los Angeles County Line to Tustin Avenue,11.784,2+,24 Hr,,,ORA-91-R4.044 =ORA-91-0.410,0.203370020357616
+120,91,WB,ORA,8.123,ORA,R0.000,26.496,14.739,Tustin Ave to Los Angeles County Line,11.757,2+,24 Hr,,,ORA-91-R4.044 =ORA-91-0.410,0.203422328313216
+121,405,NB,ORA,0.609,ORA,8.891,0.379,8.68,I-5 to SR73,8.281,2+,24 Hr,"HOV ends at SR73- Express Lanes opened Dec 2023
+Rte 5 direct connector - Jul 1996
+Rte 5 to north of Irvine Ctr Dr - Jul 1996
+North of Irvine Ctr Dr to Rte 73 - May 1991
+Rte 73 to 405/605 Sep - Jan 1989
+405/605 Sep to Los Angeles Co. Line - Feb 1998 ",,"Continues into Los Angeles County. Mileage includes direct connector from Rte 5 (0.9 ln-mi).(ORA-5-20.801 to ORA-405-0.609)
+Mileage includes dual lane lane segment (PM 21.208 to 23.280) (2.1 mi)",0.140558687024298
+122,405,SB,ORA,8.891,ORA,0.609,8.68,0.379,SR73 to I-5,8.281,2+,24 Hr,"HOV ends at SR-73- Express Lanes opened Dec 2023
+Los Angeles Co. Line to 405/605 Sep - Feb 1998
+405/605 Sep to Rte 73 - Jan 1989
+Rte 73 to north of Irvine Ctr Dr - May 1991
+North of Irvine Ctr Dr to Rte 5 - Jul 1996
+Rte 5 direct connector - Jul 1996",,"Continuation from Los Angeles County.
+Mileage includes dual lane segment (PM 23.145 to PM 21.268) (1.9 mi)
+Mileage includes direct connector to Rte 5 (0.9 ln-mi)(ORA-405-0.609 to ORA-5-20.801)
+",0.140794573665304
+123,605,NB,ORA,R0.187,ORA,R1.643,0.596,2.052,I-405 to Los Angeles County Line,2.356,2+,24 Hr,"Rte 405 direct connector - Dec 2014
+Aug 2005",,"Mileage includes direct connecto from I-405 (ORA-405-23.280 to ORA-605-R0.187)(0.9 mi)
+Continues into Los Angeles County",0.0220751324558507
+124,605,SB,ORA,R1.643,ORA,R0.209,2.052,0.618,Los Angeles County Line to I-405,2.534,2+,24 Hr,"Dec 6,2014",,Mileage includes direct connecto from I-405 (ORA-605-R0.209 to ORA-405-23.145)(1.1 mi),0.0212970379654635
