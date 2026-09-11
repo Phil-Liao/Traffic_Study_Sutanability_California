@@ -17,16 +17,17 @@ Specifically, the study addresses the core research question: *To what extent do
 * **`code/`**: Python scripts used for data cleaning, filtering large-scale CSV/Excel datasets, and performing statistical regression processing.
 * **`data/`**: Raw and processed datasets sourced from the California Open Data Portal and Caltrans, covering commuter habits (Transportation to Work) and traffic metrics (Average Transit Speeds by Route and Stop).
 
+## Acknowledgments & Honorable Mention
+* **Dr. Mintu Miah:** Chief Data Scientist at Caltrans, for invaluable guidance regarding data dictionaries, metadata XML structures, and programmatic access methods via ArcGIS endpoints.
+
 ## References
-ScienceDirect. Public transport. International Encyclopedia of Human Geography, 2009.
-
-California State Government. California Open Data Portal. Caltrans Data Section, available at https://data.ca.gov/organization/caltrans.
-
-Caltrans. Transportation to Work (T2W) Dataset. California Open Data Portal.
-
-Caltrans. Average Transit Speeds by Route (ATSBR) Dataset. California Open Data Portal.
-
-Caltrans. Average Transit Speeds by Stop (ATSBS) Dataset. California Open Data Portal.
-
+* “California’s Population Drain.” Stanford Institute for Economic Policy Research (SIEPR), siepr.stanford edu/publications/policy-brief/californias-population-drain#:~:text=California%20is%20still%20the%20largest,percent%20of%20the%20U.S.%20population. Accessed 20 June 2025.
+* “Public Transport.” Public Transport - an Overview | ScienceDirect Topics, www.sciencedirect.com/topics/social-sciences/public-transport. Accessed 23 June 2025.
+* Transportation to Work - Dataset - California Open Data - ca.Gov, data.ca.gov/dataset/transportation-to-work. Accessed 11 July 2025.
+* “Average Transit Speeds by Route.” California Open GeoPortal, data.ca.gov/dataset/average-transit-speeds-by-route. Accessed 11 July 2025.
+* “Average Transit Speeds by Stop.” California Open GeoPortal, data.ca.gov/dataset/average-transit-speeds-by-stop. Accessed 11 July 2025.
+* District Map and County Chart, cwwp2.dot.ca.gov/documentation/district-map-county-chart.htm. Accessed 16 July 2025.
+* Tu, Anh Trinh, and Thi Phuong Linh Le Le. “Encouraging Public Transport Use to Reduce Traffic Congestion and Air Pollutant: A Case Study of Ho Chi Minh City, Vietnam - Sciencedirect.” Encouraging Public Transport Use to Reduce Traffic Congestion and Air Pollutant: A Case Study of Ho Chi Minh City, Vietnam, 14 Mar. 2016, www.sciencedirect.com/science/article/pii/S187770581600401X.
+* California. Vehicle Code, § 21200 (2024).
 ---
 *This repository is published for archival and informational display purposes.*
